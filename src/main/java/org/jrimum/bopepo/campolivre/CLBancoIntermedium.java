@@ -102,7 +102,7 @@ class CLBancoIntermedium extends AbstractCLBancoIntermedium {
 	/**
 	 * 
 	 */
-	private static final Integer FIELDS_LENGTH = 6;
+	private static final Integer FIELDS_LENGTH = 8;
 	
 	private static final Integer CONSTANTE_70 = Integer.valueOf(70);
 	
